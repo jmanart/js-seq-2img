@@ -1,6 +1,0 @@
-{
-  "name": "Js-seq-2img",
-  "tagline": "js-sequence-diagram and saveSvgAsPng bootstrap little page",
-  "body": "js-seq-2img \r\n============\r\n\r\nThis project is a simple composite of several already available modules in order to make js sequence diagrams and being able to download them as svg or png.\r\n\r\nMany thanx to the projects:\r\n\r\n<https://github.com/bramp/js-sequence-diagrams>\r\n\r\n<https://github.com/exupero/saveSvgAsPng>\r\n\r\n<https://github.com/DmitryBaranovskiy/raphael>\r\n\r\n<https://github.com/twbs/bootstrap>\r\n\r\nand all its related projects.\r\n\r\n### Documentation can be found in the wiki\r\n\r\n[Wiki](https://github.com/jmanart/js-seq-2img/wiki)\r\n\r\n### Support or Contact\r\ngithub.com/jmanart\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
